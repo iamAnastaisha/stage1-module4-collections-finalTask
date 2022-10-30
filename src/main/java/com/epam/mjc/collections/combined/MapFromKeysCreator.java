@@ -19,6 +19,7 @@ public class MapFromKeysCreator {
                 resultMap.put(key.length(), set);
             }
         }
+
         return resultMap;
     }
 }
